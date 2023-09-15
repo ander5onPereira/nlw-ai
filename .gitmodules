@@ -1,0 +1,3 @@
+[submodule "upload-ai-web"]
+	path = upload-ai-web
+	url = https://github.com/ander5onPereira/upload-ia-web.git
